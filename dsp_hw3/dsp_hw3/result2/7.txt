@@ -1,47 +1,47 @@
-<s>   渡   辅 </s>
-<s>  薄 腀 ǎ い 弘  ╃  筿 紇 ぱ  と 弧 </s>
-<s>  琌 ぃ 耞 瞏   </s>
-<s> 砆 拜 の 琌  Τ 闽 よ  ┤ 化 哩 Θ  穦 某 怇 睼 睹 </s>
-<s> ┮  縩 伐   畊  </s>
+<s>   薄 狐  辅 </s>
+<s>  薄 腀 の い 弘  ╃  筿 紇 ぱ  と 弧 </s>
+<s>  琌 ぃ 眔 瞏   </s>
+<s> 砆 拜 の 琌  Τ 闽 よ  ┤ 化 哩  畊 穦 ま 癬 睼 睹 </s>
+<s> ┮  の 盢   畊  </s>
 <s>   ボ 荡 礚 眖 ㄆ </s>
 <s>  眏 秸 化 哩 祏 戳 ず 场 穦 暗  畊 臮  め 狠 </s>
-<s>    薄 帿 地 ┎  ゎ </s>
+<s>    薄 狐 て だ  ゎ </s>
 <s> 癸  綝 睴  猧 の 砆 脓  厨 旧 </s>
 <s> 化 哩  羪 礚 ー  弧 </s>
-<s> и ぃ  笵  籔 и 砆 ゴ    端  厨 旧 琌  或 糶  ㄓ </s>
+<s> и ぃ  笵 闽  и 砆 ゴ    端  厨 旧 琌  或 糶  ㄓ </s>
 <s> ㄤ 龟 硂 琌  ン  ㄆ </s>
-<s>  と  隔 癌 砆 ゴ 耞 </s>
+<s>  と  ω 癌 砆 ゴ 耞 </s>
 <s> 砆  щ 耏 砯  单 </s>
 <s>  穦 Τ   化 哩  竒 瞶   硓 筁 呼 蹈 祇  羘    </s>
 <s> 化 哩 ⊿ Τ 綝    ┪ 簈 癵 脓 阑 </s>
-<s> 硂 琌 Τ    舦 芠 渤  瘆 玂  獶 絬 </s>
-<s> 侥   稱 籔 化 哩  禯 瞒 膀 娄 </s>
-<s> 挡 狦 ぃ ヰ 盯 窱 禴 化 哩 </s>
+<s> 硂 琌 Τ    舦 芠 渤  瘆 玂  包 絬 </s>
+<s> 侥   稱 籔 化 哩  禯 瞒 浪 琩 </s>
+<s> 挡 狦 ぃ 獺 み 窱 禴 化 哩 </s>
 <s> 簍  筁 祘 い 祇 ネ 硂 贺 ㄆ 薄 </s>
 <s> 琌 獶 盽 タ 盽 </s>
-<s>  ╃ 尼 筿 跌 粿 临 痌      縋  秎 ン τ 芦  痩 翠   化 稬 </s>
-<s>   ら セ の 篨 溉    ╃ 尼   杆 酚   ら 砆  嘲 馒 粁  杆 胣  </s>
-<s> ま 怇 瞷  地  綺 佩 の 宁 砫 </s>
-<s> 玭 ㄊ  監 炳 ┋  幫 ㄢ  璓 ㄧ 化 稬 </s>
+<s>  ╃ 尼 筿 跌 粿 临 痌      縋  秎 ン τ 芦 穦 い 翠   化 稬 </s>
+<s>   琵 ˙  篨 溉    ╃ 尼   杆 酚   ら 砆  嘲 馒 粁  杆 胣  </s>
+<s> ま 癬 砛  地  綺 佩 の 宁 砫 </s>
+<s> 玭 ㄊ  監 炳 ┋   ㄢ  璓 ㄧ 化 稬 </s>
 <s> 璶 ―   跌 岿 粇 の 玦  笵 簆 </s>
-<s>   幫   ボ 穦 蹿 倒 化 稬 の  杆 馒 粁 </s>
+<s>      ボ 穦 σ  化 稬 の  杆 馒 粁 </s>
 <s> 沮 眡 </s>
-<s> ㄤ  化 稬 ら 玡   ‵ レ  </s>
-<s> 胔 好 綝   ╧   磷    帝 ら セ 瓁 狝 猧 ч τ   尖 罷 の 脓 阑 </s>
-<s>  鸟 丁 化 稬  筿   </s>
+<s> ㄤ  化 稬 ら 玡   ‵ 瑿  </s>
+<s> 胔 好 綝   ╧   ぃ    帝 ら セ 瓁 狝 瞚 礜 τ   尖 罷 の 脓 阑 </s>
+<s>  鸟 丁 化 稬 禴    </s>
 <s> ┋  ゼ Τ  端 </s>
-<s> τ  冀 竊 ヘ 璶 砆  羬    </s>
+<s> τ  冀 竊 ヘ 璶 砆  羬  羆 参 </s>
 <s> 赣 ㄆ ン 祇 ネ  </s>
 <s>  嘲 穝  呼  兜 秸 琩 陪 ボ </s>
-<s> Τ き Θ    ボ や  ㄏ ノ  件 </s>
+<s> Τ き Θ    ボ や  ㄏ ノ 忌  </s>
 <s> 甧  ㄠ  砆  ㄆ ン   厩 来   </s>
 <s>  翠 簈 琍 甧  ㄠ Ν   疉 の 筿 跌 美  辩  疎 笿 脓  </s>
-<s> 砆 牡 よ 倒  ╇  </s>
-<s>   ま 怇   臚 笆 </s>
-<s>  甡  莉 眔 礚 兵 ン ㄆ  </s>
+<s> 砆 牡 よ 肪 硄 ╇  </s>
+<s>   ま 癬   臚 笆 </s>
+<s>  甡  莉 眔 礚 兵 ン 睦  </s>
 <s>  さ ㄆ ン    琿 辅 </s>
-<s> 甧  ㄠ  ら   弧 ㄆ ン   厩 来  笆 </s>
-<s> 癸   ア </s>
+<s> 甧  ㄠ  ら   弧 ㄆ ン   厩 来 ︽ 笆 </s>
+<s>    ア </s>
 <s> 琍 畄 ら 厨 さ ぱ   玥 盡 砐 い ま 瓃 甧  ㄠ  杠 弧 </s>
 <s> ㄤ 龟 竒 筁 硂 Ω ㄆ ン  </s>
 <s> и 谋 眔  丁 癸 и     </s>
