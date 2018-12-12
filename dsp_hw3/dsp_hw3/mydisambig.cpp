@@ -90,7 +90,7 @@ int main(int argc, char *argv[])
         bi_viterbi(lm, voc, zhuyin_big5, test_file);
     else
         tri_viterbi(lm, voc, zhuyin_big5, test_file);
-       
+
     return 0;
 }
 
@@ -323,7 +323,7 @@ void tri_viterbi(Ngram *lm, Vocab &voc, map<string, vector<string> > mapping, fs
                         float tail = 0;
                         /* The probability of the candidate being the last character : P(</s> | character) */
                         if (i == len-1)
-                            tail = trigram_prob(Vocab_SentEnd, previous[k].second.c_str(), candidate[j].c_str(), lm, voc);
+                            tail = trigram_prob(Vocab_SentEnd, previous[k].second.c_str(), candidate[j].c_str(), lm, voc) + bigram_prob(Vocab_SentEnd, candidate[j].c_str(), lm, voc);
                         
                         if (current_prob < (temp + tail + delta[i-1][previous[k]])) {
                             current_prob = temp + tail + delta[i-1][previous[k]];
