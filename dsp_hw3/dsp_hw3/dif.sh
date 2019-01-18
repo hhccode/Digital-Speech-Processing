@@ -1,0 +1,10 @@
+diff result1/1.txt result2/1.txt
+diff result1/2.txt result2/2.txt
+diff result1/3.txt result2/3.txt
+diff result1/4.txt result2/4.txt
+diff result1/5.txt result2/5.txt
+diff result1/6.txt result2/6.txt
+diff result1/7.txt result2/7.txt
+diff result1/8.txt result2/8.txt
+diff result1/9.txt result2/9.txt
+diff result1/10.txt result2/10.txt

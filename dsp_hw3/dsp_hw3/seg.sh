@@ -1,0 +1,10 @@
+perl separator_big5.pl testdata/1.txt > 1.txt
+perl separator_big5.pl testdata/2.txt > 2.txt
+perl separator_big5.pl testdata/3.txt > 3.txt
+perl separator_big5.pl testdata/4.txt > 4.txt
+perl separator_big5.pl testdata/5.txt > 5.txt
+perl separator_big5.pl testdata/6.txt > 6.txt
+perl separator_big5.pl testdata/7.txt > 7.txt
+perl separator_big5.pl testdata/8.txt > 8.txt
+perl separator_big5.pl testdata/9.txt > 9.txt
+perl separator_big5.pl testdata/10.txt > 10.txt
